@@ -1,4 +1,6 @@
-# Link to app: https://game-nhr0f5qku-abdoulrahman-said-dahers-projects.vercel.app/
+# Video game database app using React and Rawg.io API.
+
+# Link: https://game-nhr0f5qku-abdoulrahman-said-dahers-projects.vercel.app/
 
 # React + TypeScript + Vite
 
